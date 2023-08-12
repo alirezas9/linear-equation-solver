@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655911526 source:h:\desktop\c uni projects\ta-project\system solver\main.c
+	<stdio.h>
+	<conio.h>
+
